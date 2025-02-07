@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "equiBSPD"]
+	path = equiBSPD
+	url = https://github.com/cran/equiBSPD
+[submodule "hrtlFMC"]
+	path = hrtlFMC
+	url = https://github.com/cran/hrtlFMC
+[submodule "minFactorial"]
+	path = minFactorial
+	url = https://github.com/cran/minFactorial
+[submodule "vegIndexCalc"]
+	path = vegIndexCalc
+	url = https://github.com/cran/vegIndexCalc
