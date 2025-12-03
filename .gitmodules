@@ -11,6 +11,9 @@
 [submodule "hrtlFMC"]
 	path = hrtlFMC
 	url = https://github.com/cran/hrtlFMC
+[submodule "min2HalfFFD"]
+	path = min2HalfFFD
+	url = https://github.com/cran/min2HalfFFD
 [submodule "minFactorial"]
 	path = minFactorial
 	url = https://github.com/cran/minFactorial
